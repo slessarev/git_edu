@@ -37,4 +37,4 @@
 
 
 
-<font color=yellow>Конец инструкции</font>
+<font color=yellow>Конец инструкции.</font>
