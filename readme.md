@@ -39,3 +39,8 @@
 Для удаления ветки ввести команду <font color=green>*"git branch -d 'name branch'"*</font>
 
 ## Добавлю еще текст чтобы сделать еще один коммит.
+
+
+
+
+<font color=yellow>Конец инструкции.</font>
