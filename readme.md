@@ -44,3 +44,5 @@
 
 
 <font color=yellow>Конец инструкции.</font>
+
+Тестируем git pull
